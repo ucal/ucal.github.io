@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Database for Databases</title>
-    <link>http://ucal.dev/tags/</link>
+    <link>https://ucal.github.io/tags/</link>
     <description>Recent content in Tags on Database for Databases</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://ucal.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ucal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
